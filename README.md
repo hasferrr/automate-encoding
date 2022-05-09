@@ -37,4 +37,4 @@
 
     [video-chapter-file.xlsx](video-chapter-file.xlsx)
 
-> honestly I made these files just to make my life easier, but i try to share it
+> honestly I made these files just to automate my work, but i try to share it
